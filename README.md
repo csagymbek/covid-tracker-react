@@ -16,6 +16,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 10. Styling
 11. Deploy
 
-### List of used dependencies:
+### Dependencies:
 
-1.
+1. BEM naming convention for css style classes
+2. Material UI Components `npm i @material-ui/core`
+3. React chart react-chartjs-2 `npm i react-chartjs-2 chart.js`
+4. Format numbers `npm i numeral`
+5. Leaflet maps `npm i react-leaflet`

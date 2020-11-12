@@ -58,7 +58,7 @@ export default function LineGraph({ casesType = "cases" }) {
         .then((response) => response.json())
         .then((data) => {
           let chartData = buildChartData(data, "cases");
-          console.log(chartData);
+          // console.log(chartData);
           setData(chartData);
         });
     };
